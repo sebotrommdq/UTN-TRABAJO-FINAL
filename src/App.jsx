@@ -7,7 +7,7 @@ function App() {
 
       return (
         <div>
-          hola
+          Te amo mi amor
         </div>
   )
 }
